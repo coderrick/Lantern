@@ -1,0 +1,11 @@
+{
+  "name": "hypnochallenge",
+  "version": "1.0.0",
+  "description": "making an app for hypno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lantern",
+  "license": "ISC"
+}
